@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Word_Counter_App_RI</string>
+    <string name="btn_input_name">Calculate count</string>
+    <string name="input_text">Write text here!</string>
+    <string-array name="counter_options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
